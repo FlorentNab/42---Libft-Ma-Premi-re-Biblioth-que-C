@@ -28,6 +28,7 @@ Grâce à ce projet, j'ai pu :
 1️⃣ Reproduire les fonctions standard de la bibliothèque C
 - Fonctions développées : ft_strlen, ft_memcpy, ft_strncmp, etc.
 - But : Comprendre et implémenter des fonctions fiables et robustes qui respectent le comportement des originaux.
+
 2️⃣ Développer des fonctionnalités supplémentaires
 - Fonctions créées : ft_split, ft_strtrim, ft_itoa, etc.
 - Ces fonctions facilitent la manipulation avancée de chaînes de caractères.
