@@ -17,6 +17,7 @@ LinkedIn : linkedin.com/in/florent-nabenesa-029107223
 🔍 Contexte
 
 Le projet Libft marque une étape cruciale dans le cursus de l'École 42. L'objectif était de recréer des fonctions clés de la bibliothèque standard C, tout en respectant une norme stricte de codage.
+
 Grâce à ce projet, j'ai pu :
 - Découvrir et comprendre en profondeur les mécanismes internes des fonctions standards.
 - M'exercer à écrire un code optimisé, structuré et dépourvu de fuites mémoire.
