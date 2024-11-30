@@ -11,8 +11,8 @@ Cette bibliothèque est conçue pour être utilisée dans les futurs projets, to
 ## 🕰️ Informations Générales  
 - **Date de réalisation :** Novembre 2024  
 - **Score obtenu :** ???/100  
-- **[Mon Portfollio]**(https://florent-nabenesa.framer.website/)  
-- **[LinkedIn]**(https://linkedin.com/in/florent-nabenesa-029107223)  
+- [**Mon Portfollio**] (https://florent-nabenesa.framer.website/)  
+- [**LinkedIn**] (https://linkedin.com/in/florent-nabenesa-029107223)  
 
 ---
 
