@@ -1,81 +1,110 @@
-# 42 - Libft: Ma Première Bibliothèque C
+# **42 - Libft : Ma Première Bibliothèque C**
 
-📖 Résumé
+---
 
-Libft est un projet fondamental de l'École 42, consistant à développer une bibliothèque de fonctions en C.
-Cette bibliothèque est conçue pour être utilisée dans les futurs projets, tout en approfondissant la compréhension des bases du langage C et des outils de programmation bas niveau.
+## 📖 Résumé  
+Libft est un projet fondamental de l'École 42, consistant à développer une bibliothèque de fonctions en C.  
+Cette bibliothèque est conçue pour être utilisée dans les futurs projets, tout en approfondissant la compréhension des bases du langage C et des outils de programmation bas niveau.  
 
+---
 
-🕰️ Informations Générales
+## 🕰️ Informations Générales  
+- **Date de réalisation :** Novembre 2024  
+- **Score obtenu :** ???/100  
+- **[Mon Portfollio]**(https://florent-nabenesa.framer.website/)  
+- **[LinkedIn]**(https://linkedin.com/in/florent-nabenesa-029107223)  
 
-Date de réalisation : Novembre 2024
+---
 
-Score obtenu : ???/100
+## 🔍 Contexte  
+Le projet **Libft** marque une étape cruciale dans le cursus de l'École 42. L'objectif était de recréer des fonctions clés de la bibliothèque standard C, tout en respectant une norme stricte de codage.  
 
-Mon Portfollio : https://florent-nabenesa.framer.website/
+Grâce à ce projet, j'ai pu :  
+- Découvrir et comprendre en profondeur les mécanismes internes des fonctions standards.  
+- M'exercer à écrire un code optimisé, structuré et dépourvu de fuites mémoire.  
+- Apprendre à organiser un projet modulaire avec un **Makefile** efficace.  
 
-LinkedIn : linkedin.com/in/florent-nabenesa-029107223
+<p align="center">
+  <img src="./assets/contexte-image.png" alt="Image représentant le contexte du projet" width="600"/>
+</p>
 
+---
 
-🔍 Contexte
+## 🎯 Objectifs du Projet  
 
-Le projet Libft marque une étape cruciale dans le cursus de l'École 42. L'objectif était de recréer des fonctions clés de la bibliothèque standard C, tout en respectant une norme stricte de codage.
+### 1️⃣ **Reproduire les fonctions standard de la bibliothèque C**  
+- **Fonctions développées :** `ft_strlen`, `ft_memcpy`, `ft_strncmp`, etc.  
+- **But :** Comprendre et implémenter des fonctions fiables et robustes qui respectent le comportement des originaux.  
 
-Grâce à ce projet, j'ai pu :
-- Découvrir et comprendre en profondeur les mécanismes internes des fonctions standards.
-- M'exercer à écrire un code optimisé, structuré et dépourvu de fuites mémoire.
-- Apprendre à organiser un projet modulaire avec un Makefile efficace.
+### 2️⃣ **Développer des fonctionnalités supplémentaires**  
+- **Fonctions créées :** `ft_split`, `ft_strtrim`, `ft_itoa`, etc.  
+- Ces fonctions facilitent la manipulation avancée de chaînes de caractères.  
 
+### 3️⃣ **Implémenter une gestion de listes chaînées (Bonus)**  
+- **Utilisation de la structure :** `t_list` pour créer des listes chaînées.  
+- **Fonctions principales :** `ft_lstnew`, `ft_lstadd_back`, `ft_lstmap`, etc.  
 
-🎯 Objectifs du Projet
+<p align="center">
+  <img src="./assets/objectifs-image.png" alt="Illustration des objectifs du projet" width="600"/>
+</p>
 
-1️⃣ Reproduire les fonctions standard de la bibliothèque C
-- Fonctions développées : ft_strlen, ft_memcpy, ft_strncmp, etc.
-- But : Comprendre et implémenter des fonctions fiables et robustes qui respectent le comportement des originaux.
+---
 
-2️⃣ Développer des fonctionnalités supplémentaires
-- Fonctions créées : ft_split, ft_strtrim, ft_itoa, etc.
-- Ces fonctions facilitent la manipulation avancée de chaînes de caractères.
+## ✅ Solutions Apportées  
 
-3️⃣ Implémenter une gestion de listes chaînées (Bonus)
-- Utilisation de la structure t_list pour créer des listes chaînées.
-- Fonctions principales : ft_lstnew, ft_lstadd_back, ft_lstmap, etc.
+### 1️⃣ **Structure et organisation**  
+- Projet organisé avec des fichiers dédiés pour chaque fonction.  
+- Utilisation d’un Makefile pour simplifier la compilation.  
 
+### 2️⃣ **Respect des normes de l'École 42**  
+- Code conforme à la norme stricte (pas de variables globales, gestion mémoire impeccable).  
+- Absence de segmentation faults ou de fuites mémoire.  
 
-✅ Solutions Apportées
+### 3️⃣ **Tests et validation**  
+- Création de tests manuels et automatisés pour garantir la fiabilité des fonctions.  
+- Validation via **Deepthought** et **peer-evaluation**.  
 
-1️⃣ Structure et organisation
-- Projet organisé avec des fichiers dédiés pour chaque fonction.
-- Utilisation d’un Makefile pour simplifier la compilation.
+<p align="center">
+  <img src="./assets/tests-image.png" alt="Image des tests du projet" width="600"/>
+</p>
 
-2️⃣ Respect des normes de l'École 42
-- Code conforme à la norme stricte (pas de variables globales, gestion mémoire impeccable).
-- Absence de segmentation faults ou de fuites mémoire.
+---
 
-3️⃣ Tests et validation
-- Création de tests manuels et automatisés pour garantir la fiabilité des fonctions.
-- Validation via Deepthought et peer-evaluation.
+## 🔧 Outils Utilisés  
+- **Langage :** C  
+- **Éditeurs de texte :** Visual Studio Code (VSC)  
+- **Environnement :** Linux, GCC  
+- **Gestion des fichiers :** Git, Makefile  
+- **Outils de tests :** Scripts maison, tests manuels  
 
+---
 
-🔧 Outils Utilisés
+## 💬 Commentaires  
+- *[Ajoute ici des extraits de feedback ou des remarques positives de tes correcteurs.]*  
 
-- Langage : C
-- Éditeurs de texte: VSC
-- Environnement : Linux, GCC
-- Gestion des fichiers : Git, Makefile
-- Outils de tests : Scripts maison, tests manuels
+<p align="center">
+  <img src="./assets/commentaires-image.png" alt="Illustration des feedbacks" width="600"/>
+</p>
 
+---
 
-💬 Commentaires
+## 🎥 Illustrations  
 
-feedbacks des projects
+### Exemple d’un test réalisé avec une fonction bonus :  
+<p align="center">
+  <img src="./assets/illustrations-tests.png" alt="Capture d'écran des tests réalisés" width="600"/>
+</p>
 
+---
 
-🎥 Illustrations
+## 🚀 Conclusion  
+Libft a été un défi enrichissant, me permettant de développer une bibliothèque modulaire, fiable et performante.  
+Cette expérience m’a permis d’acquérir une solide base pour mes projets futurs en C et au-delà.  
 
-Exemple de tests réalisés avec des fonctions bonus.
+---
 
+## 🔄 Pour Plus Tard  
+Je compte mettre à jour régulièrement ma bibliothèque **Libft** au fur et à mesure des projets à venir. Chaque nouvelle fonctionnalité ou optimisation sera intégrée pour en faire un outil encore plus puissant et adapté aux besoins de mes futures réalisations.
 
-🚀 Conclusion
+---
 
-Libft a été un défi enrichissant, me permettant de développer une bibliothèque modulaire, fiable et performante. Cette expérience m’a permis d’acquérir une solide base pour mes projets futurs en C et au-delà.
