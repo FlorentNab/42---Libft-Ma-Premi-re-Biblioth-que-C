@@ -23,7 +23,7 @@ Grâce à ce projet, j'ai pu :
 - Découvrir et comprendre en profondeur les mécanismes internes des fonctions standards.  
 - M'exercer à écrire un code optimisé, structuré et dépourvu de fuites mémoire.  
 - Apprendre à organiser un projet modulaire avec un **Makefile** efficace.  
-[Sujet (PDF)](./docs/project-details.pdf)
+[Sujet (PDF)](./english.subject.pdf)
 
 
 ---
