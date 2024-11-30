@@ -32,6 +32,7 @@ Grâce à ce projet, j'ai pu :
 2️⃣ Développer des fonctionnalités supplémentaires
 - Fonctions créées : ft_split, ft_strtrim, ft_itoa, etc.
 - Ces fonctions facilitent la manipulation avancée de chaînes de caractères.
+
 3️⃣ Implémenter une gestion de listes chaînées (Bonus)
 - Utilisation de la structure t_list pour créer des listes chaînées.
 - Fonctions principales : ft_lstnew, ft_lstadd_back, ft_lstmap, etc.
@@ -42,9 +43,11 @@ Grâce à ce projet, j'ai pu :
 1️⃣ Structure et organisation
 - Projet organisé avec des fichiers dédiés pour chaque fonction.
 - Utilisation d’un Makefile pour simplifier la compilation.
+
 2️⃣ Respect des normes de l'École 42
 - Code conforme à la norme stricte (pas de variables globales, gestion mémoire impeccable).
 - Absence de segmentation faults ou de fuites mémoire.
+
 3️⃣ Tests et validation
 - Création de tests manuels et automatisés pour garantir la fiabilité des fonctions.
 - Validation via Deepthought et peer-evaluation.
