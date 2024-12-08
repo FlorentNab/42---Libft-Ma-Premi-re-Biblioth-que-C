@@ -10,7 +10,7 @@ Cette bibliothèque est conçue pour être utilisée dans les futurs projets, to
 
 ## 🕰️ Informations Générales  
 - **Date de réalisation :** Novembre 2024  
-- **Score obtenu :** ???/100  
+- **Score obtenu :** 125/100  
 - **Mon Portfollio :** [Visite mon Portfollio en ligne !](https://florent-nabenesa.framer.website/)  
 - **LinkedIn :** [Pense aussi à venir voir mon LinkedIn](https://linkedin.com/in/florent-nabenesa-029107223)  
 
